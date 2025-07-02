@@ -1,0 +1,1 @@
+// Sales list component placeholder

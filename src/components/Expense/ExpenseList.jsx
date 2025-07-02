@@ -1,0 +1,1 @@
+// Expense list component placeholder
