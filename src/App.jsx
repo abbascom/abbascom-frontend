@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Login from "./components/Auth/Login";
 import Dashboard from "./pages/Dashboard";
 import InventoryList from "./components/Inventory/InventoryList";
 import ExpenseList from "./components/Expense/ExpenseList";
 import SalesList from "./components/Sales/SalesList";
-import Login from "./components/Auth/Login";
 
 function App() {
   return (
